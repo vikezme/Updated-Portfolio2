@@ -7,8 +7,8 @@ it has all following inforamtion about me-
 - Github profile
 - Resume
 - LinkedIn Profile
-- project link
-- links of app which i created
+- projects link
+- links of apps which i created
 
 
 TECHNOLOGY USED-
@@ -16,8 +16,10 @@ html
 css
 
 LINKS-
-https://github.com/vikezme/Updated-Portfolio-1.git
-https://vikezme.github.io/Updated-Portfolio-1/
+https://github.com/vikezme/Updated-Portfolio2.git
+
+https://vikezme.github.io/Updated-Portfolio2/
 
 CONTACT INFO-
 vikezme@gmail.com
+https://github.com/vikezme
