@@ -15,6 +15,13 @@ TECHNOLOGY USED-
 html
 css
 
+SCREENSHOTS:-
+
+![screenshotupdatedportfolio2 1](https://user-images.githubusercontent.com/76554370/134766477-a311856d-0ef7-4b8c-b926-61e43a99bb09.JPG)
+
+![screenshotupdatedportfolio2 2](https://user-images.githubusercontent.com/76554370/134766481-ef3eeafe-80f6-405f-9491-c8d0662e50a5.JPG)
+
+
 LINKS-
 https://github.com/vikezme/Updated-Portfolio2.git
 
