@@ -16,8 +16,10 @@ html
 css
 
 SCREENSHOTS:-
-![screenshotupdatedportfolio2 1](https://user-images.![screenshotupdatedportfolio2 2](https://user-images.githubusercontent.com/76554370/134766447-133bd8e6-6de7-4a25-aa36-ac8b13ec9c20.JPG)
-githubusercontent.com/76554370/134766445-1bef6a68-8445-4457-9161-37aa41236d05.JPG)
+
+![screenshotupdatedportfolio2 1](https://user-images.githubusercontent.com/76554370/134766477-a311856d-0ef7-4b8c-b926-61e43a99bb09.JPG)
+
+![screenshotupdatedportfolio2 2](https://user-images.githubusercontent.com/76554370/134766481-ef3eeafe-80f6-405f-9491-c8d0662e50a5.JPG)
 
 
 LINKS-
